@@ -1,0 +1,4 @@
+[submodule "grupotenerife"]
+	path = grupotenerife
+	url = git@git.vauxoo.com:vauxoo/grupotenerife.git
+	branch = 19.0
