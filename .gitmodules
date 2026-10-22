@@ -2,3 +2,8 @@
 	path = grupotenerife
 	url = git@git.vauxoo.com:vauxoo/grupotenerife.git
 	branch = 19.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 19.0
